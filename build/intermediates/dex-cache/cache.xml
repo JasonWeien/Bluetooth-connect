@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\me.aflak.libraries\pulltorefresh\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="403a89a8d65c7be6097d6d3b7cf736527fba005b">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-pulltorefresh-1.0_7485d421a2bdc04901790c4b5fe81162a879df57.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\me.aflak.libraries\bluetooth\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\me.aflak.libraries-bluetooth-1.2.4_2abeb930e6820acac586941e5f98f9756ec61a64.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_0b5a9c387ea59e5c79d9338b9ab194c6e01bb857.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_1157ed3e1a2b75d957234950bb42c762e59b02cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_b19f1be962724093f6f9e9658c6b3f7e85d60d7c.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_ca88eac30e1797beffe8fa7ac970e2aaf5d752b3.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_2fc1aa2f562a12120ceebba9eac2fc4a05227524.jar" />
+    </item>
+    <item
+        jar="D:\practice\Test\Bluetooth-connect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\practice\Test\Bluetooth-connect\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_56f8c54489eb959db70096f3f7c2f2da6f725386.jar" />
+    </item>
+
+</items>
